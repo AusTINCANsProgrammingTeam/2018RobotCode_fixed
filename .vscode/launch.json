@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "frc.team2158.robot.Main",
+            "projectName": "2018RobotCode_fixed"
+        }
+    ]
+}
